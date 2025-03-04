@@ -32,12 +32,12 @@
 
 <h2>🛠 Tech Stack & Skills</h2>
 <ul>
-  <li>✔ <strong>Flutter & Dart</strong> - Cross-platform development</li>
-  <li>✔ <strong>Firebase Suite</strong> - Authentication, Firestore, cloud functions</li>
-  <li>✔ <strong>REST API Integration</strong> - Efficient data handling and fetching</li>
-  <li>✔ <strong>State Management</strong> - Riverpod, Bloc, GetX, Provider</li>
-  <li>✔ <strong>UI/UX Optimization</strong> - Custom animations, adaptive layouts</li>
-  <li>✔ <strong>Git & GitHub</strong> - Version control, CI/CD, collaborative workflows</li>
+  <li> <strong>Flutter & Dart</strong> - Cross-platform development</li>
+  <li> <strong>Firebase Suite</strong> - Authentication, Firestore, cloud functions</li>
+  <li> <strong>REST API Integration</strong> - Efficient data handling and fetching</li>
+  <li> <strong>State Management</strong> - Riverpod, Bloc, GetX, Provider</li>
+  <li> <strong>UI/UX Optimization</strong> - Custom animations, adaptive layouts</li>
+  <li> <strong>Git & GitHub</strong> - Version control, CI/CD, collaborative workflows</li>
 </ul>
 
 ---
