@@ -59,6 +59,7 @@
   <li> <strong>State Management</strong> - Riverpod, Bloc, GetX, Provider</li>
   <li> <strong>UI/UX Optimization</strong> - Custom animations, adaptive layouts</li>
   <li> <strong>Git & GitHub</strong> - Version control, CI/CD, collaborative workflows</li>
+  <li> <strong>Proficiency in Pega PRPC, Java, and relational databases</li>
 </ul>
 
 ---
@@ -93,6 +94,4 @@
   </a>
 </p>
 
----
 
-<h4 align="center">💙 Keep Coding | Keep Creating | Keep Growing 🚀</h4>
