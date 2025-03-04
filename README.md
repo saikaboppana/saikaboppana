@@ -1,17 +1,17 @@
 <h1 align="center">  Hey, I'm Saika! </h1>
 
-<h3 align="center">  Flutter Developer | Mobile App Innovator | Tech Enthusiast</h3>
+<h3 align="center">  Flutter Developer | Mobile App Innovator | Tech Enthusiast </h3>
 
 <p align="center">
-  I'm a dedicated <strong>Flutter Developer</strong> with expertise in crafting cross-platform applications  
-  that are efficient, scalable, and aesthetically appealing. I specialize in <strong>Dart, Firebase, REST APIs, and State Management</strong>  
-  and love delivering seamless UI/UX experiences. My mission is to develop <strong>robust, user-centric apps</strong> that make an impact.
+  I'm a dedicated Flutter Developer with expertise in crafting cross-platform applications  
+  that are efficient, scalable, and aesthetically appealing. I specialize in Dart, Firebase, REST APIs, and State Management 
+  and love delivering seamless UI/UX experiences. My mission is to develop robust, user-centric apps that make an impact.
 </p>
 
 <p align="center">
-  Passionate about <strong>open-source contributions</strong>, sharing insights with the developer community,  
-  and staying up-to-date with cutting-edge advancements in <strong>Flutter & mobile technology.</strong>  
-  I follow <strong>clean coding principles</strong> and believe in structured, maintainable code.
+  Passionate about open-source contributions, sharing insights with the developer community,  
+  and staying up-to-date with cutting-edge advancements in Flutter & mobile technology.  
+  I follow clean coding principles and believe in structured, maintainable code.
 </p>
 
 <p align="center">
@@ -32,12 +32,12 @@
 
 <h2>🛠 Tech Stack & Skills</h2>
 <ul>
-  <li>✔️ <strong>Flutter & Dart</strong> - Cross-platform development</li>
-  <li>✔️ <strong>Firebase Suite</strong> - Authentication, Firestore, cloud functions</li>
-  <li>✔️ <strong>REST API Integration</strong> - Efficient data handling and fetching</li>
-  <li>✔️ <strong>State Management</strong> - Riverpod, Bloc, GetX, Provider</li>
-  <li>✔️ <strong>UI/UX Optimization</strong> - Custom animations, adaptive layouts</li>
-  <li>✔️ <strong>Git & GitHub</strong> - Version control, CI/CD, collaborative workflows</li>
+  <li>✔ <strong>Flutter & Dart</strong> - Cross-platform development</li>
+  <li>✔ <strong>Firebase Suite</strong> - Authentication, Firestore, cloud functions</li>
+  <li>✔ <strong>REST API Integration</strong> - Efficient data handling and fetching</li>
+  <li>✔ <strong>State Management</strong> - Riverpod, Bloc, GetX, Provider</li>
+  <li>✔ <strong>UI/UX Optimization</strong> - Custom animations, adaptive layouts</li>
+  <li>✔ <strong>Git & GitHub</strong> - Version control, CI/CD, collaborative workflows</li>
 </ul>
 
 ---
