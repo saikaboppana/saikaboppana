@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hey, I'm Saika! 🚀</h1>
+<h1 align="center">  Hey, I'm Saika! </h1>
 
-<h3 align="center">💙 Flutter Developer | Mobile App Innovator | Tech Enthusiast</h3>
+<h3 align="center">  Flutter Developer | Mobile App Innovator | Tech Enthusiast</h3>
 
 <p align="center">
   I'm a dedicated <strong>Flutter Developer</strong> with expertise in crafting cross-platform applications  
@@ -15,17 +15,17 @@
 </p>
 
 <p align="center">
-  Let’s connect and build something incredible! 💡✨
+  Let’s connect and build something incredible! ✨
 </p>
 
 ---
 
-<h2>🚀 Who Am I?</h2>
+<h2>  Who Am I?</h2>
 <ul>
-  <li>💻 <strong>Flutter Expert</strong> - Crafting smooth, cross-platform applications.</li>
-  <li>🔥 <strong>Open Source Advocate</strong> - Actively participating in community-driven projects.</li>
-  <li>📱 <strong>Mobile Development Geek</strong> - Building scalable apps for Android & iOS.</li>
-  <li>⚡ <strong>Constant Learner</strong> - Always exploring new frameworks, libraries, and best practices.</li>
+  <li> <strong>Flutter Expert</strong> - Crafting smooth, cross-platform applications.</li>
+  <li> <strong>Open Source Advocate</strong> - Actively participating in community-driven projects.</li>
+  <li> <strong>Mobile Development Geek</strong> - Building scalable apps for Android & iOS.</li>
+  <li> <strong>Constant Learner</strong> - Always exploring new frameworks, libraries, and best practices.</li>
 </ul>
 
 ---
@@ -45,47 +45,30 @@
 <h2>💡 Projects</h2>
 
 <div>
-  <h3>💳 BBPS App - Bill Payment System</h3>
-  <p>A secure and user-friendly bill payment system built with Flutter.</p>
+  <h3> BBPS App - Bharath Bill Payment System</h3>
+  <p>The BBPS (Bharat Bill Payment System) App is a Flutter-powered fintech solution designed for seamless flight bookings, bill payments, and UPI transactions.         It ensures secure and efficient payment processing through integrated UPI, bank transfers, and card payments. With a scalable architecture, optimized               API handling, and intuitive navigation, this app delivers a professional, user-friendly, and high-performance digital payment experience </p>
   <a href="https://github.com/saikaboppana/project_bbps" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge" alt="View Project">
   </a>
 </div>
 
 <div>
-  <h3>🚗 Car Rental App</h3>
-  <p>A car rental booking platform with real-time availability and secure payments.</p>
+  <h3> Car Rental App</h3>
+  <p> Car Rental App is a Flutter-based booking platform that allows users to rent cars seamlessly with real-time availability and secure payments. It features an         interactive UI, location-based car search, and instant booking confirmation. Built with Firebase and REST APIs, it ensures smooth transactions and a hassle-        free rental experience. </p>
   <a href="https://github.com/saikaboppana/car_rental" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge" alt="View Project">
   </a>
 </div>
 
 ---
-
-<h2>📖 Articles & Blogs</h2>
-<ul>
-  <li>✍️ <a href="https://dev.to/yourprofile/flutter-state-management" target="_blank">Choosing the Right State Management in Flutter</a></li>
-  <li>✍️ <a href="https://medium.com/yourprofile/flutter-performance-tips" target="_blank">Optimizing Your Flutter App for Peak Performance</a></li>
-</ul>
-
----
-
-<h2>🌎 Get in Touch!</h2>
+<h2> Get in Touch!</h2>
 <p>
-  <a href="https://github.com/yourgithub" target="_blank">
+  <a href="https://github.com/saikaboppana" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-  <a href="mailto:saika.dev@gmail.com">
+  <a href="mailto:saikaboppana1145@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
 
----
 
-<h4 align="center">💙 Keep Coding | Keep Creating | Keep Growing 🚀</h4>
