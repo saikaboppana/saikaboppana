@@ -30,26 +30,6 @@
 
 ---
 
-<h2>🎓 Education</h2>
-
-<table>
-  <tr>
-    <th>Degree</th>
-    <th>Stream</th>
-    <th>Institution</th>
-    <th>Year</th>
-    <th>CGPA</th>
-  </tr>
-  <tr>
-    <td>B.Tech</td>
-    <td>Computer Science and Engineering</td>
-    <td>B V Raju Institute of Technology (BVRIT)</td>
-    <td>2022</td>
-    <td>7.0</td>
-  </tr>
-</table>
-
----
 
 <h2>🛠 Tech Stack & Skills</h2>
 <ul>
@@ -83,7 +63,24 @@
   </a>
 </div>
 
----
+<h2>🎓 Education</h2>
+
+<table>
+  <tr>
+    <th>Degree</th>
+    <th>Stream</th>
+    <th>Institution</th>
+    <th>Year</th>
+    <th>CGPA</th>
+  </tr>
+  <tr>
+    <td>B.Tech</td>
+    <td>Computer Science and Engineering</td>
+    <td>B V Raju Institute of Technology (BVRIT)</td>
+    <td>2022</td>
+    <td>7.0</td>
+  </tr>
+</table>
 
 <h2> Get in Touch!</h2>
 <p>
